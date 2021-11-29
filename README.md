@@ -25,4 +25,4 @@ print(a)
 
 
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully completed.
